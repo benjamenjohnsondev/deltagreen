@@ -7,5 +7,3 @@ parent: Persons of Interest
 ---
 
 # Player Characters
-
-* [Nicholas Holloway](/docs/persons-of-interest/player-characters/nicholas-holloway)
